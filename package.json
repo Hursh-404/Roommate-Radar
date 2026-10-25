@@ -1,0 +1,20 @@
+{
+  "name": "roommate-radar-practical-4",
+  "version": "1.0.0",
+  "description": "Practical No. 04: Server-Side Development with NodeJS & Robust Validation",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "nodejs",
+    "server-side-validation",
+    "http",
+    "mitaoe",
+    "web-technology"
+  ],
+  "author": "Harshvardhan / MIT-AOE",
+  "license": "ISC"
+}
